@@ -9,7 +9,7 @@ function showDate(){
 
 	var diffWeeks = Math.round(Math.abs((birthDay-today)/oneDay))
 	var percentage = Math.ceil(diffWeeks/4101*100)
-	document.getElementById("response").innerHTML = `You have lived ${percentage}% of your life.`
+	document.getElementById("response").innerHTML = `${percentage}% of your life is already gone! Better spend the rest wisely!`
 
 	
 	document.getElementById('progress-bar').style.width = percentage+"%"
