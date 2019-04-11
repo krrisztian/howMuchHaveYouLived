@@ -4,4 +4,4 @@ Inspired by Tim Urban and his [TED Talk](https://www.youtube.com/watch?v=arj7oSt
 
 # Screenshot
 
-![alt text](https://github.com/krrisztian/howMuchHaveYouLived/blob/master/screenshot.png?raw=true)
+![alt text](https://github.com/krrisztian/howMuchHaveYouLived/blob/master/preview.png?raw=true)
