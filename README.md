@@ -1,4 +1,4 @@
-# howMuchHaveYouLived
+# Your Life
 A project that tells you how much of your life have you already lived.
 
 
