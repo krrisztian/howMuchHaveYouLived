@@ -6,4 +6,4 @@ _Disclaimer: This website does not collect or store any kind of information abou
 
 # Screenshot
 
-![screenshot](https://github.com/what-name/what-name.github.io/edit/master/preview.png?raw=true)
+![screenshot](preview.png)
